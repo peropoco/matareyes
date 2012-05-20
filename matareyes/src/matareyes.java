@@ -6,7 +6,7 @@ public class matareyes {
 	 */
 	public static void main(String[] args) {
 		// version 0
-		System.out.println("version 0 !!!");
+		System.out.println("mas matareyes");
 
 	}
 
